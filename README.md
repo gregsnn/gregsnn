@@ -6,4 +6,4 @@
 - :zap: I'm also (trying to) learning to play Recorder, but to be honest I totally suck at this
 
 ### You can talk to me on:
-[<img align="left" width="22px" https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-twitter-1.png />][twitter]
+[https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-twitter-1.png][twitter]
