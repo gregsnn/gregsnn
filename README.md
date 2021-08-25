@@ -4,3 +4,6 @@
 - :mortar_board: Currently learning JS and some of they frameworks as well
 - :exclamation: Totally in love with CSS and all design stuff that they provide
 - :zap: I'm also (trying to) learning to play Recorder, but to be honest I totally suck at this
+
+### You can find me in:
+[https://raw.githubusercontent.com/jmnote/z-icons/master/svg/twitter.svg][twitter]
