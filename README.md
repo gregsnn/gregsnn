@@ -13,7 +13,7 @@
 <br />
 <br />
 
-### Languages and Tools that I already know:
+### Languages and Tools that I am into:
 [<img align="left" alt="HTML logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />]('html5')
 [<img align="left" alt="CSS logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />]('css3')
 [<img align="left" alt="Bootstrap logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" />]('bootstrap')
